@@ -12,7 +12,7 @@ The goal is to guide this expansion with **data-driven purchase decisions** that
 - **Problem Statement:**  
   Which aircraft are safest for our company to purchase as we expand into the aviation industry?
 
-- **Objectives:**  */
+- **Objectives:**  
   1.To assess historical aircraft accident trends (1962–2023).  
   2.To identify aircraft types and manufacturers with the lowest risks.  
   3.To provide actionable recommendations for executives.  
@@ -84,12 +84,12 @@ Commercial flights show lower accident frequency and severity compared to privat
 
 
 ## Interactive Dashboard
-[🔗 Insert Tableau Public or Streamlit link here]  
+[See Tableau Dashboard](https://public.tableau.com/app/profile/mwanaisha.joho/viz/Book1_17586223399890/Dashboard1?publish=yes) 
 
 The dashboard provides interactive visualizations of:  
 - Accident trends over time  
-- Injury severity distributions  
-- Risk by aircraft manufacturer, model, and flight purpose
+- Top Aircraft manufacturer by fatality
+- Accident frequency by purpose of flight
 
 ---
 
